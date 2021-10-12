@@ -5,7 +5,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 import Web3Provider from '@components/context/Web3Context';
 import Layout from '@components/context/Layout';
-import { store } from '@components/redux/store';
+import { store } from '@redux/store';
 import { Provider } from 'react-redux';
 
 function MyApp({ Component, pageProps }: AppProps) {
