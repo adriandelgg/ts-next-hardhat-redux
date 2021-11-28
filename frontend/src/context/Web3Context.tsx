@@ -1,5 +1,5 @@
 import { createContext, useState, useEffect } from 'react';
-import type { Web3 } from 'components/navbar/MetaMask';
+import type { Web3 } from 'src/context/NavBar/MetaMask';
 
 declare let window: any;
 

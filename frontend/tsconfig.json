@@ -17,5 +17,5 @@
 		"incremental": true
 	},
 	"include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"],
-	"exclude": ["node_modules", "components/typechain"]
+	"exclude": ["node_modules", "src/components/typechain"]
 }
